@@ -15,7 +15,7 @@ import shutil
 
 
 source = "C:/Users/Jbusse/Documents/Python Work/PA Add on JB/Result/"
-dest1 = "//Data/crossdata_prod/apps/PAPricing/CA/"
+
 
 
 # In[6]:
